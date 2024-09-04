@@ -1,0 +1,15 @@
+d:\Users\USER\Documents\Projects c#\github\game-spider\app\bin\Debug\net8.0\app.exe
+d:\Users\USER\Documents\Projects c#\github\game-spider\app\bin\Debug\net8.0\app.deps.json
+d:\Users\USER\Documents\Projects c#\github\game-spider\app\bin\Debug\net8.0\app.runtimeconfig.json
+d:\Users\USER\Documents\Projects c#\github\game-spider\app\bin\Debug\net8.0\app.dll
+d:\Users\USER\Documents\Projects c#\github\game-spider\app\bin\Debug\net8.0\app.pdb
+d:\Users\USER\Documents\Projects c#\github\game-spider\app\obj\Debug\net8.0\app.GeneratedMSBuildEditorConfig.editorconfig
+d:\Users\USER\Documents\Projects c#\github\game-spider\app\obj\Debug\net8.0\app.AssemblyInfoInputs.cache
+d:\Users\USER\Documents\Projects c#\github\game-spider\app\obj\Debug\net8.0\app.AssemblyInfo.cs
+d:\Users\USER\Documents\Projects c#\github\game-spider\app\obj\Debug\net8.0\app.csproj.CoreCompileInputs.cache
+d:\Users\USER\Documents\Projects c#\github\game-spider\app\obj\Debug\net8.0\app.sourcelink.json
+d:\Users\USER\Documents\Projects c#\github\game-spider\app\obj\Debug\net8.0\app.dll
+d:\Users\USER\Documents\Projects c#\github\game-spider\app\obj\Debug\net8.0\refint\app.dll
+d:\Users\USER\Documents\Projects c#\github\game-spider\app\obj\Debug\net8.0\app.pdb
+d:\Users\USER\Documents\Projects c#\github\game-spider\app\obj\Debug\net8.0\app.genruntimeconfig.cache
+d:\Users\USER\Documents\Projects c#\github\game-spider\app\obj\Debug\net8.0\ref\app.dll
